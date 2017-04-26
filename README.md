@@ -3,4 +3,5 @@ This document outlines customer service guidelines, processes and standard opera
 # Table of Contents
 ### I. Service Level Definitions
 ### II. Service Process
-### III. 
+### III. Complaints Policy
+

@@ -1,3 +1,3 @@
 # Overview
-Marketplacer customer service guidelines, processes and standard operating procedures
-This document provides a st
+This document outlines customer service guidelines, processes and standard operating procedures.    
+# Service Levels

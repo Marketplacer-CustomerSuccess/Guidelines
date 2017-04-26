@@ -4,4 +4,6 @@ This document outlines customer service guidelines, processes and standard opera
 ### I. Service Level Definitions
 ### II. Service Process
 ### III. Complaints Policy
+### IV. Escalation Guidelines
+### V. Feature Request Guidelines
 

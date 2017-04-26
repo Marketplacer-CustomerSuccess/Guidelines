@@ -6,4 +6,5 @@ This document outlines customer service guidelines, processes and standard opera
 ### III. Complaints Policy
 ### IV. Escalation Guidelines
 ### V. Feature Request Guidelines
-
+### VI. Reporting a Bug
+### VII. Contacts

@@ -9,3 +9,4 @@ This document outlines customer service guidelines, processes and standard opera
 ### VI. Feature Request Guidelines
 ### VII. Reporting a Bug
 ### VIII. Contacts
+### IX. Triage Process

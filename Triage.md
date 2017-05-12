@@ -1,8 +1,16 @@
 # Triage Process
-### Evaluate the ticket priority
-Business Critical: Ticket is considered business critical when there is a complete loss in service or a significant feature is not working. Example, website is down, payment cannot be processed, promo page is not working, or anything that affects revenue
+### Evaluate or assess the request
 
-Degraded Service: These 
+- General Inquiry
 
-General Issue: These issues are questions, product information and feature request
-### Categorise the ticket
+  A ticket is categorised as general inquiry 
+- Reporting an Error
+- Feature Request
+- Requesting for Documentation
+
+### Determine the request's priority
+
+### Discuss / route to the dev team
+
+### Determine the impact of the request (what is the impact to other verticals)
+

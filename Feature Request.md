@@ -1,6 +1,6 @@
 # Feature Request Process
 ### Overview
-This section serves as a guide as to how we handle feature requests from verticals.  The aim is to categorise which request will be scheduled for development, which request will be reviewed in the future and which request will be parked.  
+This section serves as a guide how to handle feature requests from verticals.  The aim is to categorise which request will be scheduled for development, which request will be reviewed in the future and which request will be parked for further review.  
 
 
 1. Receive feature requestfrom the vertical via Zendesk.  
@@ -8,12 +8,14 @@ This section serves as a guide as to how we handle feature requests from vertica
     created in Zendesk
    
 2. Check if the feature requested has already been requested or is already in the Dev queue.  
-   - If If yes, inform the vertical of the status.  if 
+   - If there's previous request: Update the requestor and close the ticket
+   - If there's no previous request: Check if all the required information was provided.  If at any point more information is      needed, coomunicate with the vertical to complete the form
 
-Check if all the required information was provided.  If at any point more information is needed, communicate with the 
-   customer to complete the form.
-
-3. Once the form is completed, check if the feature requcategorise the feature request according to the following:
+3. Once the form is completed,tag the ticket "Feature Request" and categorise the request according to the following:
    
-   Open: 
+   - Planned : Request is valid and we are able to commit to delivering the functionality at this time
+   - Open: The request is valid but we cannot commit to delivering the functionality at this time
+   - Term: Request is being considered for the next product version
+   - Long Term: 
+   - Closed: Request has 
 

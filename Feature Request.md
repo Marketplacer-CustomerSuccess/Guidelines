@@ -8,7 +8,7 @@ This section serves as a guide how to handle feature requests received from vert
    
 2. Check if the feature requested has already been requested or is already in the Dev queue.  
    - If there's previous request: Update the requestor and close the ticket
-   - If there's no previous request: Check if all the required information was provided.  If at any point more information is      needed, coomunicate with the vertical to complete the form
+   - If there's no previous request: Check if all the required information was provided.  If at any point more information is      needed, coomunicate with the vertical to complete the feature request form
 
 3. Once the form is completed,tag the ticket "Feature Request" and categorise the request according to the following:
    

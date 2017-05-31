@@ -1,9 +1,8 @@
 # Feature Request Process
 ### Overview
-This section serves as a guide how to handle feature requests from verticals.  The aim is to categorise which request will be scheduled for development, which request will be reviewed in the future and which request will be parked for further review.  
+This section serves as a guide how to handle feature requests received from verticals.  The aim is to categorise feature request and inform the requestor (vertical) in the quickest possible time if the request will be planned for development or if it will be closed. 
 
-
-1. Receive feature requestfrom the vertical via Zendesk.  
+1. Receive feature request from the vertical via Zendesk.  
    *Note: If the request was received via a different channel (i.e. Slack, Email, Verbal) please make sure that a ticket is 
     created in Zendesk
    

@@ -14,11 +14,15 @@ This section serves as a guide how to handle feature requests received from vert
 3. Once the form is completed categorise the request based on the categories below and tag the ticket "Feature Request - Category".  Tagging the ticket will allow us to retrieve all the tickets under that category with ease.
    
    - Planned : Request is valid and we are able to commit to delivering the functionality at this time
+   
    - Open: The request is valid but we cannot commit to delivering the functionality at this time
-   - Short Term: Request is being considered for the next product version which means that these issues can be moved to 
+   
+   - Short Term: Request is being considered for the next product version which means that these issues can be moved to 
      Planned or Open
+   
    - Long Term: Request is being considered for the future product version which means that the issues here can be moved to 
      short term or open categories.
+   
    - Closed: Request has reached its end state.  There are several reasons why the ticket could be closed, either the request 
      has been done, we won't do the request or if its a duplicate request.
 

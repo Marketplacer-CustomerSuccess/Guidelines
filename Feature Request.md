@@ -7,14 +7,15 @@ This section serves as a guide how to handle feature requests received from vert
     created in Zendesk
    
 2. Check if the feature requested has already been requested or is already in the Dev queue.  
-   - If there's previous request: Update the requestor and close the ticket
+   - If there's previous request: Update the requestor that a ticket has already been submitted, update the requestor on the 
+     status of the ticket, if its planned, open etc. Close the ticket
    - If there's no previous request: Check if all the required information was provided.  If at any point more information is      needed, coomunicate with the vertical to complete the feature request form
 
-3. Once the form is completed,tag the ticket "Feature Request" and categorise the request according to the following:
+3. Once the form is completed categorise the request based on the categories below and tag the ticket "Feature Request - Category".  Tagging the ticket will allow us to retrieve all the tickets under that category with ease.
    
    - Planned : Request is valid and we are able to commit to delivering the functionality at this time
    - Open: The request is valid but we cannot commit to delivering the functionality at this time
-   - Term: Request is being considered for the next product version
+   - Short Term: Request is being considered for the next product version
    - Long Term: 
    - Closed: Request has 
 

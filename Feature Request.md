@@ -29,16 +29,24 @@ This section serves as a guide how to handle feature requests received from vert
 
 4. After tagging, create a JIRA ticket.  The JIRA ticket should contain the following information:
 
-  Information from the Vertical / Requestor:
+   Information from the Vertical / Requestor:
+    
     - Define the problem: Explain the curent scenario
+   
     - What is the desired / expected outcome
+    
     - What are the metrics?  How will we measure success?
 
-  Information from the support team:   
+   Information from the support team:   
+    
     - Are there any pre-requisites?
+   
     - In Scope: List of things that fall within the scope of this request?
+   
     - Out of Scope: List of that are not to be included in the first phase of the project
+   
     - Conflicts / Unresolved items: List anything that needs to be flagged and discussed
+   
     - Other Verticals: How will this request affect other verticals?
    
 5. Update the requesteor of their request status

@@ -49,4 +49,4 @@ This section serves as a guide how to handle feature requests received from vert
    
     - Other Verticals: How will this request affect other verticals?
    
-5. Update the requesteor of their request status
+5. Update the requestor of their request status

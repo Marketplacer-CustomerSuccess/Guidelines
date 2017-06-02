@@ -41,4 +41,4 @@ Information from the support team:
    - Conflicts / Unresolved items: List anything that needs to be flagged and discussed
    - Other Verticals: How will this request affect other verticals?
    
-5.
+5. Update the requesteor of their request status

@@ -35,4 +35,4 @@ Some things to take note of when creating / submitting a technical support reque
 
 5. You will be kept informed about the progress of any open requests via email and through the Marketplacer customer support center
 
-Please note that the response time is dependent on your package level.  (See service level packages)
+Please note that the response time is dependent on your package level.  (See Msaas service level packages)

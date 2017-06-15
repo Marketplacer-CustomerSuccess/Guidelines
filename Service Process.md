@@ -22,13 +22,9 @@ There are two ways to create a technical support request.
   What is your expected outcome?
   
   What is the current scenario?
-  
--Please include screenshots and links if any
+ 
 
-Some things to take note of when creating a technical support request
+Some things to take note of when creating / submitting a technical support request:
 
-Please provide as much details as possible including screenshots and links if any
-
-- y This is essential so we can route the request to our team of experts to resolve your issue. Please ensure you select the correct problem area to speed up the resolution of your service request.
-
-- 
+- Please make sure that the correct problem area is chosen to speed up the the resolution of your service requests.  This is essential so we can route the request to our team of experts to resolve your issue.  
+- You will need to provide as much details as possible including screenshots, links and examples.  This will enable the engineers to replicate and solve your issue
